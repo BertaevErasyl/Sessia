@@ -1,0 +1,2 @@
+LOGGER = "new"
+LOGGER = "old"
